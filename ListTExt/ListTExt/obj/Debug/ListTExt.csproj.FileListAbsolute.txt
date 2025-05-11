@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ListTExt\ListTExt\obj\Debug\ListTExt.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ListTExt\ListTExt\obj\Debug\ListTExt.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ListTExt\ListTExt\bin\Debug\ListTExt.exe.config
+C:\Users\user\Desktop\ListTExt\ListTExt\bin\Debug\ListTExt.exe
+C:\Users\user\Desktop\ListTExt\ListTExt\bin\Debug\ListTExt.pdb
+C:\Users\user\Desktop\ListTExt\ListTExt\obj\Debug\ListTExt.exe
+C:\Users\user\Desktop\ListTExt\ListTExt\obj\Debug\ListTExt.pdb

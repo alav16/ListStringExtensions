@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\GroupStudent\GroupStudent\obj\Debug\GroupStudent.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GroupStudent\GroupStudent\obj\Debug\GroupStudent.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GroupStudent\GroupStudent\bin\Debug\GroupStudent.exe.config
+C:\Users\user\Desktop\GroupStudent\GroupStudent\bin\Debug\GroupStudent.exe
+C:\Users\user\Desktop\GroupStudent\GroupStudent\bin\Debug\GroupStudent.pdb
+C:\Users\user\Desktop\GroupStudent\GroupStudent\obj\Debug\GroupStudent.exe
+C:\Users\user\Desktop\GroupStudent\GroupStudent\obj\Debug\GroupStudent.pdb
+C:\Users\user\Desktop\Marj\Homework\April3\GroupStudent\GroupStudent\bin\Debug\GroupStudent.exe.config
+C:\Users\user\Desktop\Marj\Homework\April3\GroupStudent\GroupStudent\bin\Debug\GroupStudent.exe
+C:\Users\user\Desktop\Marj\Homework\April3\GroupStudent\GroupStudent\bin\Debug\GroupStudent.pdb
+C:\Users\user\Desktop\Marj\Homework\April3\GroupStudent\GroupStudent\obj\Debug\GroupStudent.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Marj\Homework\April3\GroupStudent\GroupStudent\obj\Debug\GroupStudent.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Marj\Homework\April3\GroupStudent\GroupStudent\obj\Debug\GroupStudent.exe
+C:\Users\user\Desktop\Marj\Homework\April3\GroupStudent\GroupStudent\obj\Debug\GroupStudent.pdb

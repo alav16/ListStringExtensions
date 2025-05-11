@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April3\\GroupStudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{726C62B0-791D-4270-95C5-65AA50461436}|GroupStudent\\GroupStudent.csproj|c:\\users\\user\\desktop\\marj\\homework\\april3\\groupstudent\\groupstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726C62B0-791D-4270-95C5-65AA50461436}|GroupStudent\\GroupStudent.csproj|solutionrelative:groupstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April3\\GroupStudent\\GroupStudent\\Program.cs",
+              "RelativeDocumentMoniker": "GroupStudent\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April3\\GroupStudent\\GroupStudent\\Program.cs",
+              "RelativeToolTip": "GroupStudent\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwH0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:39:20.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

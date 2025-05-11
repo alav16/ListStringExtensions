@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\stringExt\stringExt\obj\Debug\stringExt.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\stringExt\stringExt\obj\Debug\stringExt.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\stringExt\stringExt\bin\Debug\stringExt.exe.config
+C:\Users\user\Desktop\stringExt\stringExt\bin\Debug\stringExt.exe
+C:\Users\user\Desktop\stringExt\stringExt\bin\Debug\stringExt.pdb
+C:\Users\user\Desktop\stringExt\stringExt\obj\Debug\stringExt.exe
+C:\Users\user\Desktop\stringExt\stringExt\obj\Debug\stringExt.pdb
